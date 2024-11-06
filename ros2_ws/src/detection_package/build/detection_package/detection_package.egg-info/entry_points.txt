@@ -1,0 +1,4 @@
+[console_scripts]
+fusion_node = detection_package.fusion_node:main
+image_detection_node = detection_package.image_detection_node:main
+lidar_detection_node = detection_package.lidar_detection_node:main

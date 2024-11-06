@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: detection-package
+Version: 0.0.0
+Summary: ROS2 package for image and LiDAR detection
+Maintainer: mostafa
+Maintainer-email: m.kira@innopolis.university
+License: Apache License 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+

@@ -1,0 +1,43 @@
+running egg_info
+creating build/detection_package/detection_package.egg-info
+writing build/detection_package/detection_package.egg-info/PKG-INFO
+writing dependency_links to build/detection_package/detection_package.egg-info/dependency_links.txt
+writing entry points to build/detection_package/detection_package.egg-info/entry_points.txt
+writing requirements to build/detection_package/detection_package.egg-info/requires.txt
+writing top-level names to build/detection_package/detection_package.egg-info/top_level.txt
+writing manifest file 'build/detection_package/detection_package.egg-info/SOURCES.txt'
+reading manifest file 'build/detection_package/detection_package.egg-info/SOURCES.txt'
+writing manifest file 'build/detection_package/detection_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package
+copying detection_package/fusion_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package
+copying detection_package/image_detection_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package
+copying detection_package/lidar_detection_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package
+copying detection_package/__init__.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package
+running install
+running install_lib
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package
+copying /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package/fusion_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package
+copying /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package/image_detection_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package
+copying /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package/lidar_detection_node.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package
+copying /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/build/lib/detection_package/__init__.py -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package
+byte-compiling /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package/fusion_node.py to fusion_node.cpython-310.pyc
+byte-compiling /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package/image_detection_node.py to image_detection_node.cpython-310.pyc
+byte-compiling /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package/lidar_detection_node.py to lidar_detection_node.cpython-310.pyc
+byte-compiling /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/share/ament_index
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/share/ament_index/resource_index
+creating /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/share/ament_index/resource_index/packages
+copying resource/detection_package -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/share/ament_index/resource_index/packages
+copying package.xml -> /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/share/detection_package
+running install_egg_info
+Copying build/detection_package/detection_package.egg-info to /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/python3.10/site-packages/detection_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing fusion_node script to /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/detection_package
+Installing image_detection_node script to /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/detection_package
+Installing lidar_detection_node script to /media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/install/detection_package/lib/detection_package
+writing list of installed files to '/media/mostafa/Data/Git Repos/perception_testing_task/ros2_ws/src/detection_package/build/detection_package/install.log'
